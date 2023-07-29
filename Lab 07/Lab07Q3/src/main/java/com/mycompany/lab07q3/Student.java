@@ -1,0 +1,7 @@
+package com.mycompany.lab07q3;
+
+public class Student 
+{
+    final int marks=100;
+    final void display();
+}
